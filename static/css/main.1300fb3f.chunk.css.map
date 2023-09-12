@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,WAGC,oDAA2B,CAC3B,iBAAkB,CAClB,YAAa,CACb,0CAAwC","file":"main.1300fb3f.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.is-active {\n  background-color: #a3ebdd93;\n  border-radius: 5px;\n  padding: 10px;\n  outline: 2px solid darken(#a3ebdd93, 40);\n}\n"]}
